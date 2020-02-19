@@ -1,5 +1,7 @@
 # levantando un meterpreter reverso con un comando
 
+este research quedo plasmado en [esta presentacion](https://docs.google.com/presentation/d/e/2PACX-1vQ-3Uiytk6UqMZ2_Ntedhg47RXRxgpF48u8ECbrQ1Hqay4fC3j7es8xqzW5moZbaztnMEBIDKxoSvV0/pub?start=false&loop=false&delayms=3000), este draft es la vitacora del dia a dia mientras arme todo
+
 ## Pasos que hice para recreala
 
 queremos duplicar el comportamiento de la siguiente shellcode en un lenguaje de alto nivel como python
